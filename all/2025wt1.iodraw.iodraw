@@ -41,16 +41,16 @@
           <mxGeometry x="1745" y="400" width="812" height="209" as="geometry" />
         </mxCell>
         <mxCell id="t1Qrjjlae6BW-KIbFXt3-12" value="无人机运动" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1780" y="480" width="140" height="49" as="geometry" />
+          <mxGeometry x="1850" y="460" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="t1Qrjjlae6BW-KIbFXt3-13" value="云团运动" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1970" y="480" width="124" height="49" as="geometry" />
+          <mxGeometry x="2006" y="460" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="t1Qrjjlae6BW-KIbFXt3-14" value="导弹运动" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2150" y="460" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="t1Qrjjlae6BW-KIbFXt3-15" value="投放点与起爆点确定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2318" y="480" width="204" height="49" as="geometry" />
+          <mxGeometry x="2290" y="460" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="t1Qrjjlae6BW-KIbFXt3-16" value="烟幕20s有效期" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2612" y="480" width="163" height="49" as="geometry" />
