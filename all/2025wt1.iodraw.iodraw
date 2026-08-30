@@ -52,7 +52,7 @@
         <mxCell id="t1Qrjjlae6BW-KIbFXt3-15" value="投放点与起爆点确定" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2290" y="460" width="204" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="t1Qrjjlae6BW-KIbFXt3-16" value="烟幕20s有效期" style="whiteSpace=wrap;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="t1Qrjjlae6BW-KIbFXt3-16" value="烟幕20s有效期" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2580" y="460" width="163" height="49" as="geometry" />
         </mxCell>
         <mxCell id="t1Qrjjlae6BW-KIbFXt3-17" value="云团落地时间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
