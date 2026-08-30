@@ -17,7 +17,7 @@
           <mxGeometry y="76" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="t1Qrjjlae6BW-KIbFXt3-4" value="几何有效遮蔽判定模型" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1855" y="750" width="1420" height="159" as="geometry" />
+          <mxGeometry x="1860" y="730" width="1420" height="159" as="geometry" />
         </mxCell>
         <mxCell id="t1Qrjjlae6BW-KIbFXt3-5" value="描述真目标空间几何形状&#xa;选取目标上任意点Q" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="t1Qrjjlae6BW-KIbFXt3-4">
           <mxGeometry x="43" y="54" width="236" height="66" as="geometry" />
@@ -66,38 +66,6 @@
         </mxCell>
         <mxCell id="t1Qrjjlae6BW-KIbFXt3-21" value="输出：有效遮蔽时长" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2455" y="1100" width="204" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="t1Qrjjlae6BW-KIbFXt3-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.33;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t1Qrjjlae6BW-KIbFXt3-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1850" y="634" />
-            </Array>
-            <mxPoint x="2455" y="717.1699999999996" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t1Qrjjlae6BW-KIbFXt3-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.28;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t1Qrjjlae6BW-KIbFXt3-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2032" y="634" />
-            </Array>
-            <mxPoint x="2455" y="714.7200000000003" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t1Qrjjlae6BW-KIbFXt3-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.17;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t1Qrjjlae6BW-KIbFXt3-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2206" y="634" />
-            </Array>
-            <mxPoint x="2455" y="709.3299999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t1Qrjjlae6BW-KIbFXt3-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.19;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t1Qrjjlae6BW-KIbFXt3-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2420" y="634" />
-            </Array>
-            <mxPoint x="2498.1372549019607" y="701" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="t1Qrjjlae6BW-KIbFXt3-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.81;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t1Qrjjlae6BW-KIbFXt3-16">
           <mxGeometry relative="1" as="geometry">
