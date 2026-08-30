@@ -16,6 +16,9 @@
         <mxCell id="t1Qrjjlae6BW-KIbFXt3-3" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="t1Qrjjlae6BW-KIbFXt3-0">
           <mxGeometry y="76" width="160" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="t1Qrjjlae6BW-KIbFXt3-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t1Qrjjlae6BW-KIbFXt3-4" target="t1Qrjjlae6BW-KIbFXt3-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t1Qrjjlae6BW-KIbFXt3-4" value="几何有效遮蔽判定模型" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;fillColor=#d0cee2;strokeColor=#56517e;fontColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1830" y="620" width="1350" height="150" as="geometry" />
         </mxCell>
@@ -79,7 +82,7 @@
         <mxCell id="t1Qrjjlae6BW-KIbFXt3-18" value="导弹到达假目标时间" style="whiteSpace=wrap;strokeWidth=2;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2950" y="460" width="204" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="t1Qrjjlae6BW-KIbFXt3-21" value="输出：有效遮蔽时长" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="t1Qrjjlae6BW-KIbFXt3-21" value="输出：有效遮蔽时长" style="whiteSpace=wrap;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2403" y="830" width="204" height="49" as="geometry" />
         </mxCell>
       </root>
