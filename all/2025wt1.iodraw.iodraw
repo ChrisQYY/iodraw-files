@@ -83,7 +83,7 @@
           <mxGeometry x="2950" y="460" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="t1Qrjjlae6BW-KIbFXt3-21" value="输出：有效遮蔽时长" style="whiteSpace=wrap;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2403" y="830" width="204" height="49" as="geometry" />
+          <mxGeometry x="2361.5" y="830" width="287" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
