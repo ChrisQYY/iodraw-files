@@ -37,7 +37,7 @@
         <mxCell id="t1Qrjjlae6BW-KIbFXt3-10" value="右边：物理有效时间模型" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2577" y="400" width="931" height="209" as="geometry" />
         </mxCell>
-        <mxCell id="t1Qrjjlae6BW-KIbFXt3-11" value="运动学模型" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="t1Qrjjlae6BW-KIbFXt3-11" value="运动学模型" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#fad7ac;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1830" y="400" width="680" height="130" as="geometry" />
         </mxCell>
         <mxCell id="t1Qrjjlae6BW-KIbFXt3-12" value="无人机运动" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
