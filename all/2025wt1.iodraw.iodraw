@@ -67,44 +67,6 @@
         <mxCell id="t1Qrjjlae6BW-KIbFXt3-21" value="输出：有效遮蔽时长" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2455" y="1100" width="204" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="t1Qrjjlae6BW-KIbFXt3-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.81;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t1Qrjjlae6BW-KIbFXt3-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2694" y="634" />
-            </Array>
-            <mxPoint x="2631.8627450980393" y="701" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t1Qrjjlae6BW-KIbFXt3-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.17;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t1Qrjjlae6BW-KIbFXt3-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2903" y="634" />
-            </Array>
-            <mxPoint x="2675" y="709.3299999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t1Qrjjlae6BW-KIbFXt3-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.3;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t1Qrjjlae6BW-KIbFXt3-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3133" y="634" />
-            </Array>
-            <mxPoint x="2675" y="715.6999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t1Qrjjlae6BW-KIbFXt3-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.35;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t1Qrjjlae6BW-KIbFXt3-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3379" y="634" />
-            </Array>
-            <mxPoint x="2675" y="718.1500000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t1Qrjjlae6BW-KIbFXt3-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="t1Qrjjlae6BW-KIbFXt3-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="2565" y="750" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
