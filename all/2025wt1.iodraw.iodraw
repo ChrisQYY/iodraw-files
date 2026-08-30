@@ -32,7 +32,7 @@
           <mxGeometry x="865" y="54" width="226" height="66" as="geometry" />
         </mxCell>
         <mxCell id="t1Qrjjlae6BW-KIbFXt3-9" value="对所有目标点进行判断&#xa;所有视线均被阻断则实现完整遮蔽" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="t1Qrjjlae6BW-KIbFXt3-4">
-          <mxGeometry x="1141" y="46" width="252" height="84" as="geometry" />
+          <mxGeometry x="1141" y="50" width="252" height="70" as="geometry" />
         </mxCell>
         <mxCell id="t1Qrjjlae6BW-KIbFXt3-10" value="物理有效时间模型" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#6d8764;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2550" y="400" width="630" height="140" as="geometry" />
