@@ -68,7 +68,7 @@
           <mxGeometry x="2447" y="659" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="t1Qrjjlae6BW-KIbFXt3-21" value="输出：有效遮蔽时长" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2455" y="757" width="204" height="49" as="geometry" />
+          <mxGeometry x="2455" y="1100" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="t1Qrjjlae6BW-KIbFXt3-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.33;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t1Qrjjlae6BW-KIbFXt3-12" target="t1Qrjjlae6BW-KIbFXt3-20">
           <mxGeometry relative="1" as="geometry">
